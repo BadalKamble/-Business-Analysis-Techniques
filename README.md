@@ -1,4 +1,4 @@
-📊 Business Analysis Techniques
+📊 Business Analysis Techniques                    [📥 Download Full Presentation PDF](Business%20Analysis%20Techniques.pdf)
 
 BA Portfolio Presentation | 7 Core Techniques | SWOT · RCA · CBA · Gap Analysis · Stakeholder Mapping
 
@@ -46,3 +46,9 @@ Education: BCA — Dayanand College of Commerce, Latur (SRTMU)
 CGPA: 8.56
 Target Role: Business Analyst (Fresher)
 Email: kamblebadal25@gmail.com
+
+[📥 Download Full Presentation PDF](Business%20Analysis%20Techniques.pdf)
+
+
+![Business Analysis Techniques](%F0%9F%93%8A%20Business%20Analysis%20Techniques.png)
+
